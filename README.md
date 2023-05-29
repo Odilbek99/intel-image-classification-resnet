@@ -1,4 +1,9 @@
+
 # Классификатор изображений ResNet
+![GitHub repo size](https://img.shields.io/github/repo-size/Odilbek99/intel-image-classification-resnet)
+![GitHub contributors](https://img.shields.io/github/contributors/Odilbek99/intel-image-classification-resnet)
+![GitHub stars](https://img.shields.io/github/stars/Odilbek99/intel-image-classification-resnet)
+![GitHub forks](https://img.shields.io/github/forks/Odilbek99/intel-image-classification-resnet)
 
 ## Описание
 Этот проект содержит реализацию классификатора изображений, использующего архитектуру ResNet, для работы с набором данных Intel Image Classification из Kaggle.
