@@ -1,6 +1,6 @@
 
 # Классификатор изображений ResNet
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A_HNxymHiWoQs25Haq1HtuTFQs_ujTw2#scrollTo=jtefGhRwSsHo)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A_HNxymHiWoQs25Haq1HtuTFQs_ujTw2?usp=sharing)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Odilbek99/intel-image-classification-resnet)
 ![GitHub contributors](https://img.shields.io/github/contributors/Odilbek99/intel-image-classification-resnet)
 ![GitHub stars](https://img.shields.io/github/stars/Odilbek99/intel-image-classification-resnet)
